@@ -1,0 +1,40 @@
+{    
+  "fish": [
+      {
+        "id": "1",
+        "name": "Stormdancer",
+        "gatheringSkill": "295",
+        "description": "A king among raincallers, and lord of the waters of the Jadeite Flood.",
+        "bait": "Stem Borer",
+        "Weather_a": "Rain",
+        "Weather_b": "Snow",
+        "position": {
+            "x": 12.6,
+            "y": 14.6
+          },
+          "Area": "Jadeite Flood",
+          "Region": "New Gridania",
+          "startTime": "17:00",
+          "endTime": "2:00",
+          "itemIds": ["1"]
+      },
+      {
+        "id": "2",
+        "name": "Carp Diem",
+        "gatheringSkill": "290",
+        "description": "A king among moat carp, and lord of the waters of the upper Black Tea Brook.",
+        "bait": "Crow Fly",
+        "Weather_a": "Clouds",
+        "Weather_b": "Fog",
+        "position": {
+            "x": 8.9,
+            "y": 8.0
+          },
+          "Area": "Upper Black Tea Brook",
+          "Region": "Old Gridania",
+          "startTime": "9:00",
+          "endTime": "14:00",
+          "itemIds": ["2"]
+      }
+    ]
+  }
